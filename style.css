@@ -1,0 +1,39 @@
+
+.content {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    text-align: center;
+    padding-bottom: 100px;
+    margin-top: 130px;
+
+}
+
+#hello {
+    width: 300px;
+    height: 280px; 
+    background-color: rgba(47, 0, 255, 0.329)
+}
+
+input {
+    width: 20%; 
+    height:40px ;
+    font-size: 20px ; 
+    margin: 6px; 
+}
+
+#text {
+    width: 93%;
+    height: 50px;
+     background-color: silver;
+}
+ 
+h1 {
+    text-align: center;
+    margin-top: 35px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid #7f7f7f;
+    font-style: italic;
+}
